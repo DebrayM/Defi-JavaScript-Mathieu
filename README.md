@@ -12,7 +12,7 @@ Utilisez la police de caractère `Segment7`.
 Pour utiliser cette police sur votre site web, insérez le code suivant dans la partie `head` de votre page HTML:
 
 ```html
-<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/segment7" type="text/css"/>
+<link rel="stylesheet" href="https://fontlibrary.org//face/segment7">
 ```
 
 ```css
