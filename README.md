@@ -8,7 +8,7 @@ Le caractère `:` doit clignoter toutes les secondes et l'heure se mettre à jou
 Un visuel est attendu pour rendre le tout plus sympathique.  
 Faire en sorte que le `body` soit noir et la couleur de la police de caractère soit de la couleur de votre choix.
 
-Utilisez la police de caractère `Segment7` fournie.  
+Utilisez la police de caractère `Segment7` grâce au fichier fournie.  
 
 > Psst !  
 > Ne demandez pas à Guillaume comment utiliser la police de caractère en CSS, il vous dira de chercher...
