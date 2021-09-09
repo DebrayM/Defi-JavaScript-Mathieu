@@ -6,18 +6,12 @@ Le caractère `:` doit clignoter toutes les secondes et l'heure se mettre à jou
 ## Visuel
 
 Un visuel est attendu pour rendre le tout plus sympathique.  
-Faire en sorte que le `body` soit noir et la couleur de la police de caractère soit rouge.
+Faire en sorte que le `body` soit noir et la couleur de la police de caractère soit de la couleur de votre choix.
 
-Utilisez la police de caractère `Segment7`.  
-Pour utiliser cette police sur votre site web, insérez le code suivant dans la partie `head` de votre page HTML:
+Utilisez la police de caractère `Segment7` fournie.  
 
-```html
-<link rel="stylesheet" href="https://fontlibrary.org//face/segment7">
-```
-
-```css
-font-family: 'Segment7Standard'; 
-```
+> Psst !  
+> Ne demandez pas à Guillaume comment utiliser la police de caractère en CSS, il vous dira de chercher...
 
 ### Que le sort vous soit favorable !
 ###### Puis il y a de la musique et tout là.... 🎶
