@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Segment7';
+    src: url(Segment7.ttf) format('truetype');
+}
+
+body{
+    background-color: black;
+    color: aqua;
+    font-family: 'Segment7', sans-serif;
+    font-size: 250px;
+}
+
+div {
+    width: 50%;
+    margin: 200px auto;
+    text-align: center;
+    display: flex;
+}
+
+.doublePoint {
+    visibility:hidden;
+}
