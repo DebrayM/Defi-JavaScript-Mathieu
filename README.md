@@ -15,9 +15,3 @@ Utilisez la police de caractère `Segment7` grâce au fichier fournie.
 
 ### Que le sort vous soit favorable !
 ###### Puis il y a de la musique et tout là.... 🎶
-
-
-## Pourquoi "Défi Mathieu" ?
-
-Parce qu'il m'a donné cette petite idée juste en parlant il y a un ou deux jour en arrière.  
-Donc remerciez-le :).
